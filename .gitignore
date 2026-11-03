@@ -32,3 +32,8 @@ services/**/.env
 services/**/data/
 services/**/config/
 services/**/cache/
+.env
+services/**/.env
+services/**/data/
+services/**/config/
+services/**/cache/
