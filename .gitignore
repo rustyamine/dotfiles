@@ -27,3 +27,8 @@ lime3ds-emu/
 mandarine-emu/
 spotify/
 spicetify/
+.env
+services/**/.env
+services/**/data/
+services/**/config/
+services/**/cache/
